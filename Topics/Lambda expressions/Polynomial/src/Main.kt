@@ -1,0 +1,1 @@
+val lambda: (Int) -> Int = { i: Int -> a*(i*i) + b * i + c }
